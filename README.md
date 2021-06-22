@@ -3,7 +3,7 @@
 
 
 ## word count 演示，
-直接运行 `WordCounrBoorstrap` 即可
+直接运行 `WordCountBoorstrap` 即可
 
 预期结果
 ```
